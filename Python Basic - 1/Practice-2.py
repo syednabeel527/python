@@ -1,0 +1,6 @@
+a = int(input("Enter value for A : "))
+b = int(input("Enter value for B : "))
+print("Sum" ,a+b)
+print("Difference" ,a-b)
+print("Product" , a*b)
+print("Quotient" ,a//b)
